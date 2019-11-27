@@ -9,6 +9,9 @@
 *.userosscache
 *.sln.docstates
 
+# Ignoring all user generated DB files
+*.db
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
